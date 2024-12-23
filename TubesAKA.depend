@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1734965514 source:c:\mila\informatics\semester 3\std\tubesaka\siswa.cpp
+	<iostream>
+	"siswa.h"
+
+1734946728 c:\mila\informatics\semester 3\std\tubesaka\siswa.h
+	<iostream>
+	<string>
+
+1734964806 source:c:\mila\informatics\semester 3\std\tubesaka\main.cpp
+	<iostream>
+	"siswa.h"
+
